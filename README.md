@@ -17,7 +17,7 @@ In this exercise, we’ll build a multi-layer .NET Core API from scratch using .
 - **ORM and Code First**: Utilize Entity Framework with Code First database design, ensuring a well-structured approach.
 - **Business Layer**: Implement a Business Layer decoupled from any specific ORM.
 - **API Layer**: Use Resources to avoid exposing models, employ AutoMapper for mapping, validate inputs with FluentValidation, and simplify API documentation with Swagger.
-
+- For more details, refer to the original blog by Andre Vitor Lopes, [here](https://medium.com/swlh/building-a-nice-multi-layer-net-core-3-api-c68a9ef16368).
 - For more details, refer to the original exercise code by Andre Vitor Lopes, which uses .NET Core 3.0, [here](https://github.com/alopes2/Medium-MyMusic). Note that this example uses .NET 7.0.
 
 ## Exercise 2: .NET Core Authentication and Authorization
@@ -35,7 +35,7 @@ In this exercise, we will secure a .NET Core 3+ API using Identity and JSON Web 
 - **Microsoft Identity**: Learn how to integrate Microsoft Identity into a multi-layered project and structure the database and entities appropriately.
 - **User Management**: Implement user sign-up, sign-in, and role management.
 - **JSON Web Tokens (JWT)**: Understand JWT creation, validation, and usage for securing API endpoints.
-
+- For more details, refer to the original blog by Andre Vitor Lopes, [here](https://medium.com/swlh/securing-your-net-core-3-api-using-identity-93d6426d6311).
 - For more details, refer to the original exercise code by Andre Vitor Lopes, which uses .NET Core 3.0, [here](https://github.com/alopes2/Medium-MyMusic-Identity). Note that this example uses .NET 7.0.
 
 For more details, refer to the original author Andre Vitor Lopes [here](https://blog.andrevitorlopes.com/).
