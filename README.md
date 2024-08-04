@@ -2,7 +2,7 @@
 
 ## Exercise 1: Building a Multi-Layer .NET Core 7.0 API from Zero
 
-In this exercise, we’ll build a multi-layer .NET Core API from scratch using .NET Core 3.0. We will follow best practices and leverage the latest framework features and patterns.
+In this exercise, we’ll build a multi-layer .NET Core API from scratch using .NET Core 7.0. We will follow best practices and leverage the latest framework features and patterns.
 
 ### Overview
 
@@ -22,7 +22,7 @@ In this exercise, we’ll build a multi-layer .NET Core API from scratch using .
 
 ## Exercise 2: .NET Core Authentication and Authorization
 
-In this exercise, we will secure a .NET Core 3+ API using Identity and JSON Web Tokens (JWT). The goal is to make the API more secure and manage user authentication and authorization effectively.
+In this exercise, we will secure a .NET Core 7+ API using Identity and JSON Web Tokens (JWT). The goal is to make the API more secure and manage user authentication and authorization effectively.
 
 ### Overview
 
