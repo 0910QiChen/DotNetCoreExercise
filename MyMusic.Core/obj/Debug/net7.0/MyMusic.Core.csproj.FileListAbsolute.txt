@@ -1,0 +1,12 @@
+C:\DotNetCore\MyMusic\MyMusic.Core\bin\Debug\net7.0\MyMusic.Core.deps.json
+C:\DotNetCore\MyMusic\MyMusic.Core\bin\Debug\net7.0\MyMusic.Core.dll
+C:\DotNetCore\MyMusic\MyMusic.Core\bin\Debug\net7.0\MyMusic.Core.pdb
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.AssemblyInfoInputs.cache
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.AssemblyInfo.cs
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.dll
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\refint\MyMusic.Core.dll
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.pdb
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\ref\MyMusic.Core.dll
+C:\DotNetCore\MyMusic\MyMusic.Core\obj\Debug\net7.0\MyMusic.Core.csproj.AssemblyReference.cache

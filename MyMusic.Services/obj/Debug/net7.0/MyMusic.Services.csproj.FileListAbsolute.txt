@@ -1,0 +1,15 @@
+C:\DotNetCore\MyMusic\MyMusic.Services\bin\Debug\net7.0\MyMusic.Services.deps.json
+C:\DotNetCore\MyMusic\MyMusic.Services\bin\Debug\net7.0\MyMusic.Services.dll
+C:\DotNetCore\MyMusic\MyMusic.Services\bin\Debug\net7.0\MyMusic.Services.pdb
+C:\DotNetCore\MyMusic\MyMusic.Services\bin\Debug\net7.0\MyMusic.Core.dll
+C:\DotNetCore\MyMusic\MyMusic.Services\bin\Debug\net7.0\MyMusic.Core.pdb
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.csproj.AssemblyReference.cache
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.AssemblyInfo.cs
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic..0A413481.Up2Date
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.dll
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\refint\MyMusic.Services.dll
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\MyMusic.Services.pdb
+C:\DotNetCore\MyMusic\MyMusic.Services\obj\Debug\net7.0\ref\MyMusic.Services.dll
