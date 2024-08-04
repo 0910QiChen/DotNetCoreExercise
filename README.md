@@ -18,6 +18,8 @@ In this exercise, we’ll build a multi-layer .NET Core API from scratch using .
 - **Business Layer**: Implement a Business Layer decoupled from any specific ORM.
 - **API Layer**: Use Resources to avoid exposing models, employ AutoMapper for mapping, validate inputs with FluentValidation, and simplify API documentation with Swagger.
 
+- For more details, refer to the original exercise code by Andre Vitor Lopes, which uses .NET Core 3.0, [here](https://github.com/alopes2/Medium-MyMusic). Note that this example uses .NET 7.0.
+
 ## Exercise 2: .NET Core Authentication and Authorization
 
 In this exercise, we will secure a .NET Core 3+ API using Identity and JSON Web Tokens (JWT). The goal is to make the API more secure and manage user authentication and authorization effectively.
@@ -34,4 +36,6 @@ In this exercise, we will secure a .NET Core 3+ API using Identity and JSON Web 
 - **User Management**: Implement user sign-up, sign-in, and role management.
 - **JSON Web Tokens (JWT)**: Understand JWT creation, validation, and usage for securing API endpoints.
 
-For more details, refer to the original article by Andre Vitor Lopes [here](https://blog.andrevitorlopes.com/).
+- For more details, refer to the original exercise code by Andre Vitor Lopes, which uses .NET Core 3.0, [here](https://github.com/alopes2/Medium-MyMusic-Identity). Note that this example uses .NET 7.0.
+
+For more details, refer to the original author Andre Vitor Lopes [here](https://blog.andrevitorlopes.com/).
