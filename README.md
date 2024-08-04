@@ -34,4 +34,4 @@ In this exercise, we will secure a .NET Core 3+ API using Identity and JSON Web 
 - **User Management**: Implement user sign-up, sign-in, and role management.
 - **JSON Web Tokens (JWT)**: Understand JWT creation, validation, and usage for securing API endpoints.
 
----
+For more details, refer to the original article by Andre Vitor Lopes [here](https://blog.andrevitorlopes.com/).
